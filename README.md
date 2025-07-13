@@ -38,7 +38,7 @@ EEG-Mantras/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rupantd23/EEG-Mantras.git
+   git clone [https://github.com/utkarshk23iitk/EEG-Mantras/tree/main]
    cd EEG-Mantras
    ```
 
