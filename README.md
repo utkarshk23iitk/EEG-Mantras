@@ -53,7 +53,7 @@ EEG-Mantras/
 
 ## Usage
 
-- Place your EEG data files in the `mudra_data/` directory.
+- Place your EEG data files in the `dataset/` directory.
 - Use the provided Jupyter notebook (`Models.ipynb`) to:
   - Load and preprocess EEG data
   - Visualize brainwave patterns
